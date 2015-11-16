@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://kalaminja.github.io
+title: dhivehi bavana - tharika project
+email: ahmed.ikram@gmail.com
+author: ahmed ikram
+description: a project by dhivehi bavana to document the heritage of the Maldives in 2d/3d
+paginate: 3
+google_analytics: 
